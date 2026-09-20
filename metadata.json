@@ -1,0 +1,8 @@
+{
+  "name": "Remix Calculator",
+  "description": "Modern calculator with simple and scientific modes, featuring a secure hidden photo vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
